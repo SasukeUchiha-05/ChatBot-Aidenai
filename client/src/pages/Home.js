@@ -33,7 +33,7 @@ const Home = () => {
               Your Trusted <span style={{color: 'var(--secondary)'}}>Service Hub</span>
             </h1>
             <p className="hero-subtitle slide-up">
-              Connect with professional service providers in your area. From home repairs to tutoring, 
+              Connecting with professional service providers in your area. From home repairs to tutoring, 
               we've got you covered with quality services you can trust.
             </p>
             <div className="hero-actions slide-up">
